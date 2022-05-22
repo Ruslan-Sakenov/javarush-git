@@ -1,1 +1,1 @@
-# javarush-git
+# javarush-git caesar cipher project
